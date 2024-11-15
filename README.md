@@ -1,6 +1,8 @@
 
 # FinanceMe DevOps Project 01 🚀
 
+![Preview](./Assets/FinanceMe_architecture_diagram.png)
+
 This project demonstrates the deployment of a DevOps pipeline for a global banking and financial services provider, **FinanceMe**. The company transitioned from a monolithic architecture to a microservice-based architecture to handle increased traffic and scaling challenges. The project involves automating infrastructure provisioning, build and deployment processes, and continuous monitoring using modern DevOps tools and AWS services.
 
 ## Tools Used 🛠️
