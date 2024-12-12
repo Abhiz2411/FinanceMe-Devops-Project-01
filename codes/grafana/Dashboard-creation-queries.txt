@@ -1,0 +1,14 @@
+# Below are Promsql queries used in Grafana to create a great panels in Dashboards of Grafana
+
+# Panel 1: CPU utlization
+100 - (avg by (instance) (rate(node_cpu_seconds_total{mode="idle"}[1m])) * 100)
+
+# Panel 2: Disk Space Utilization
+node_filesystem_avail_bytes{fstype!~"tmpfs|rootfs"} / node_filesystem_size_bytes{fstype!~"tmpfs|rootfs"} * 100
+
+# Pane 3: Total Available Memory
+(node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes) * 100
+
+
+
+# Comment for triggiring the pipeline through GIT SCM polling
