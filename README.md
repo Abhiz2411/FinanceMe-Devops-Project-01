@@ -71,8 +71,8 @@ The project is divided into three main phases:
 
 ## Contact 📬
 For any queries or issues, feel free to reach out to me at:  
-**Email**: [your-email@example.com](mailto:abhijitzende75@gmail.com)  
-**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/zende-abhijit/)
+**Email**: [abhijitzende75@gmail.com](mailto:abhijitzende75@gmail.com)  
+**LinkedIn**: [zende-abhijit](https://www.linkedin.com/in/zende-abhijit/)
 
 ---
 
